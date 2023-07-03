@@ -14,7 +14,7 @@ REGOLE
 /* 1) Stringa: JS identifica con Stringa tutto ciò che è inserito tra le virgolette ""; Ad esempio "nomeUtente", "23.5", "True", ...
    2) Booleano: JS ammette solo due valori per questo datatype, True e False. Questi valori sono per esempio l'output del verificarsi o meno di una condizione.  
    3) Numero: JS identifica con Numero una qualsiasi numero (intero o decimale, espresso tramite il punto) senza l'uso delle virgolette; Ad esempio 26, 33.58, ...
-   4) Oggetti: Sono una categoria che racchiude diversi tipi di dati. Lo sono per esempio il valore null apploicato ad una variabile, oppure una variabile contenente un insieme di variabili, ... */
+   4) Oggetti: Sono una categoria che racchiude diversi tipi di dati. Lo sono per esempio il valore null applicato ad una variabile, oppure una variabile contenente un insieme di variabili, ... */
 
 /* ESERCIZIO 2 
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
